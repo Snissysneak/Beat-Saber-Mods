@@ -5,7 +5,9 @@
 These mods are mostly for **Steam** users if you are a **Oculus** user then you can download everything 
 besides the `scoresaber plugin`
 
-All the mods can also be found [HERE](https://pastebin.com/Bcm85dpd)
+All the mods can also be found [HERE](https://pastebin.com/Bcm85dpd) (NOT MINE)
+
+For a more in depth guide you can find it [HERE](https://wiki.assistant.moe/beginners-guide) (NOT MINE)
 
 # How To Guide
 
