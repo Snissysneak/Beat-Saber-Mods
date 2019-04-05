@@ -19,7 +19,7 @@ For a more in depth guide you can find it [HERE](https://wiki.assistant.moe/begi
 
   | Oculus | `\hyperbolic-magnetism-beat-saber` |
 
-2. Select the only .dll file in the fold and move it into: 
+2. Select the only .dll file in the folder and move it into: 
 
   | Steam | `\steamapps\common\Beat Saber\Plugins` |
 
